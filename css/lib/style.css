@@ -1,0 +1,20 @@
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.container-fluid {
+    background-color: #777777;
+}
+
+.carousel-inner {
+    height: 50vh;
+    display: flex;
+    align-items: flex-end;
+}
+
+.carousel-item {
+    margin-bottom: 10vh;
+}
